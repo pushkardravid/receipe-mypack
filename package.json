@@ -1,0 +1,13 @@
+{
+  "id": "mypack",
+  "name": "Mypack",
+  "version": "1.0.0",
+  "description": "Mypack",
+  "main": "index.js",
+  "author": "Pushkar Dravid <pushkarsdravid@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mypack.ncsu.edu",
+    "hasNotificationSound": true
+  }
+}
